@@ -21,7 +21,7 @@ function Favorites(){
 return(
    <div className="favorites-empty">     
    <h2>
-    No Favorite Movie Yet                    /* show contant which is showing before any contant add into favorites */
+    No Favorite Movie Yet                   
    </h2> 
    <p>Starting movies to your favorites, and they will appear here!</p>
    </div>
